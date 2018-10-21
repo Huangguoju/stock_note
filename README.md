@@ -8,3 +8,5 @@ fine , i just first time to invest in stock , so , you can ignore this project .
 
 Good luck !!!!!!!!!!!!!
 
+if you fell useful by the note , please give me a star , Thanks !
+
