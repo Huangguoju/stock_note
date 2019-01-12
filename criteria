@@ -1,4 +1,25 @@
 
+float principal = 5;
+float percentage = 0.05;
+float target = 100;
+int count = 0;
+
+while(1){
+	count++;
+	principal += principal * percentage;
+	printf("count: %d, money:%f \n", count, principal);
+	if(principal > target){
+		printf("count is : %d , maybe need %d month\n", count, (count / 12) + 1);
+		break;
+	}else{
+		printf("count: %d, money:%f \n", count, principal);
+		if(count > 10000)
+			break;
+	}
+
+}
+
+
 The first thing you should remenber .
 -----------------------------------
 
